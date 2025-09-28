@@ -92,30 +92,20 @@ s=(Ac+m).*cos(2*3.14*fc*t);
 subplot(3,1,3);
 plot(t,s);
 ```
-
-
 Output Waveform
-
 
 ![am 1](https://github.com/user-attachments/assets/4872514d-7591-493c-9423-f19423f17524)
 
-
-
 TABULATION:
 
-![am cal](https://github.com/user-attachments/assets/2688b7dd-d1e2-488a-a06a-9453c85c3fbd)
-
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/31b713f4-89fb-4942-8a6e-2e85706f2ef0" />
 
 Calculation
-1.	ma (Theory) = am/ac = 0.681
+1.	ma (Theory) = am/ac = 0.675
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.677
 
-
 MODEL GRAPH
- <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
-
- 
- 
+ <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
 
 RESULT:
